@@ -1,0 +1,10 @@
+Programming Challenge: Array Manipulation
+
+Here are the instructions I was given:
+
+1.) Use curl to grab this url: http://dl.dropbox.com/u/1844304/data.php
+2.) parse this json data into an array. each item has a name and an age.
+3.) order the data alphabetically by name and print out each item on its own line. Like this: Larry: 34.
+4.) next, print out top 3 oldest peple, in order, same format.
+
+My work can be found in index.php.
